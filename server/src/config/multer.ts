@@ -5,7 +5,7 @@ import { Request } from 'express'
 
 export default {
   storage: multer.diskStorage({
-    destination: path.resolve(__dirname, '..', '..', 'uploads'),
+    destination: path.resolve(__dirname, '..', '..', 'uploads/data'),
     filename (request, file, callback) {
       const hash = crypto.randomBytes(6).toString('hex')
       const filename = `${hash}-${file.originalname}`
