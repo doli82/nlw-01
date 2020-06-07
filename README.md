@@ -23,7 +23,7 @@ Trata-se de uma aplicação completa (backend, frontend e mobile) para atender a
   [Instalação](#-instalação)&nbsp;&nbsp;|&nbsp;&nbsp;
   [Execução](#-execução)&nbsp;&nbsp;|&nbsp;&nbsp;
   [Tecnologias](#-tecnologias)&nbsp;&nbsp;|&nbsp;&nbsp;
-  [Resultado Final](#-resultado-final)&nbsp;&nbsp;|&nbsp;&nbsp;
+  [Preview](#-preview)&nbsp;&nbsp;|&nbsp;&nbsp;
   [Licença](#-licença)  
 
 ## Começando
