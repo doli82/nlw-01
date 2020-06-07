@@ -35,3 +35,5 @@ Após todos os passos anteriores, seu servidor está pronto para ser inicializad
 ```
 npm run dev
 ```
+
+Ir para o [README.md](../README.md) principal do projeto
