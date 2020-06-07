@@ -19,12 +19,12 @@ Projeto desenvolvido durante a primeira [NextLevelWeek](https://nextlevelweek.co
 
 Trata-se de uma aplicação completa (backend, frontend e mobile) para atender a demanda de logistica da coleta de resíduos. Em outras palavras , em homenagem à semana internacional do meio ambiente que coincidiu com o período da realização da Next Level Week 1.0.
   
-  [Começando](#-começando)&nbsp;&nbsp;|&nbsp;&nbsp;
-  [Instalação](#-instalação)&nbsp;&nbsp;|&nbsp;&nbsp;
-  [Execução](#-execução)&nbsp;&nbsp;|&nbsp;&nbsp;
-  [Tecnologias](#-tecnologias)&nbsp;&nbsp;|&nbsp;&nbsp;
-  [Preview](#-preview)&nbsp;&nbsp;|&nbsp;&nbsp;
-  [Licença](#-licença)  
+  [Começando](#começando)&nbsp;&nbsp;|&nbsp;&nbsp;
+  [Instalação](#instalação)&nbsp;&nbsp;|&nbsp;&nbsp;
+  [Execução](#execução)&nbsp;&nbsp;|&nbsp;&nbsp;
+  [Tecnologias](#tecnologias)&nbsp;&nbsp;|&nbsp;&nbsp;
+  [Preview](#preview)&nbsp;&nbsp;|&nbsp;&nbsp;
+  [Licença](#licença)  
 
 ## Começando
 As instruções a seguir são para fornecer uma cópia deste projeto que poderá ser executada na sua máquina local para fins de desenvolvimento e teste.
